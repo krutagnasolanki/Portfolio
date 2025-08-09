@@ -26,5 +26,5 @@ portfolio/
 
 ## 📬 Contact
 **Krutagna Solanki**  
-📧 Email: your-email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+📧 Email: skrutagna848@gmail.com.com  
+🔗 [LinkedIn](https://www.linkedin.com/feed/) | [GitHub](https://github.com/)
